@@ -1,5 +1,5 @@
 # cicd-pipeline-train-schedule-pipelines
-#just a little idea... lets woo?#
+#just a little idea... lets roo?#
 
 This is a simple train schedule app written using nodejs. It is intended to be used as a sample application for a series of hands-on learning activities.
 
